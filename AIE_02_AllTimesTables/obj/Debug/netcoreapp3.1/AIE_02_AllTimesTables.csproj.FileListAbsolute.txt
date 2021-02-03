@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_02_AllTimesTables.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_02_AllTimesTables.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_02_AllTimesTables.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.exe
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.deps.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.dll
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\bin\Debug\netcoreapp3.1\AIE_02_AllTimesTables.pdb
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_02_AllTimesTables.dll
+C:\Users\s210209\Desktop\aie\Loops\AIE_02_AllTimesTables\obj\Debug\netcoreapp3.1\AIE_02_AllTimesTables.pdb

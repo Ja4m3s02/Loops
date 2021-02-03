@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\obj\Debug\netcoreapp3.1\AIE_01_NineTimesTables.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\obj\Debug\netcoreapp3.1\AIE_01_NineTimesTables.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\obj\Debug\netcoreapp3.1\AIE_01_NineTimesTables.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.exe
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.deps.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.dll
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\bin\Debug\netcoreapp3.1\AIE_01_NineTimesTables.pdb
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\obj\Debug\netcoreapp3.1\AIE_01_NineTimesTables.dll
+C:\Users\s210209\Desktop\aie\Loops\AIE_01_NineTimesTables\AIE_01_NineTimesTables\obj\Debug\netcoreapp3.1\AIE_01_NineTimesTables.pdb
